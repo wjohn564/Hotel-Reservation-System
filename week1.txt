@@ -1,0 +1,18 @@
+John - customer class
+first name
+last name
+number
+email
+
+
+Reservation class - Dean
+Customer object
+Hotel Type 
+Room Type
+Occupancy
+Check in date
+Check out date
+
+Ruari - rates calculations
+
+Tomek - Room class
